@@ -13,16 +13,15 @@ def shiva():
     print("Hello everyone! My name is shiva — let's make Git fun together!")
 def ConfidentHero():
     print("\n\nHello all, I am Akhil -- let's code together!!\n\n")
-# Example:
-# def alan():
-#     print("Hey, I'm Alan! Excited to teach Git and GitHub.")
+def thejuskk():
+    print("Hi this is thejuskk from cse. nice to meet you")
 
 # -----------------------------
 #  Call your function below 
 # -----------------------------
 
 amal()
-# alan()
+thejuskk()
 shiva()
 ConfidentHero()
 print("\nProgram executed successfully! Great work, everyone!")
